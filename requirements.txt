@@ -4,3 +4,4 @@ PyPDF2
 matplotlib
 seaborn
 plotly
+openpyxl
